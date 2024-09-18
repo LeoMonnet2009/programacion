@@ -8,4 +8,4 @@ def __init__(self, nombre, ritmo, tiro, pase, regate, defensa, fisico):
     self.pase = pase
     self.regate = regate
     self.defensa = defensa
-    self.fisico = fisico  
+    self.fisico = fisico 
